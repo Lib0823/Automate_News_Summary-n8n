@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T08:25:17.874Z",
+  "updatedAt": "2026-09-27T06:02:20.525Z",
   "createdAt": "2026-02-18T07:59:38.607Z",
   "id": "hQ177jjDzJTQEj99",
   "name": "Git-CICD",
@@ -56,10 +56,10 @@
         },
         "repository": {
           "__rl": true,
-          "value": "AutomationWorkflow-n8n",
+          "value": "Automate_News_Summary-n8n",
           "mode": "list",
-          "cachedResultName": "AutomationWorkflow-n8n",
-          "cachedResultUrl": "https://github.com/Lib0823/AutomationWorkflow-n8n"
+          "cachedResultName": "Automate_News_Summary-n8n",
+          "cachedResultUrl": "https://github.com/Lib0823/Automate_News_Summary-n8n"
         },
         "filePath": "=workflows/{{ $json.name }}.json",
         "fileContent": "={{ JSON.stringify($json, null, 2) }}",
@@ -120,7 +120,7 @@
     "templateCredsSetupCompleted": true
   },
   "pinData": {},
-  "versionId": "fbcbd0b2-8f8c-4838-ae91-e140dd4573dd",
+  "versionId": "ca2f1d4d-f11c-4acc-a718-010ab8b788ce",
   "activeVersionId": "fbcbd0b2-8f8c-4838-ae91-e140dd4573dd",
   "triggerCount": 1,
   "shared": [
